@@ -23,7 +23,7 @@ Arduino Project - Farm Smart Monitoring System
 <p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/650b59e0-28e3-478b-9f5b-5ed9952c58bb;" style="width: 100vw; min-width: 300px;" /></p>
 
 ### 1) 주 시스템
-<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/3817487e-6fa6-4a51-ace3-ad6e6fb31ef4" style="width: 50vw; min-width: 300px;"/></p>
+<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/3817487e-6fa6-4a51-ace3-ad6e6fb31ef4" style="width: 30vw; min-width: 200px;"/></p>
 - 주 시스템에서는 사용자가 사용하는 시스템으로 구성하였다.
 - 사용자 인터페이스를 나타내는 LCD와 보안을 위한 비밀번호 입력, 보조 시스템에 데이터와 제어를 요청하는 4x4 키패드로 구성하였다.
 
