@@ -35,8 +35,8 @@ Arduino Project - Farm Smart Monitoring System
 
 
 ### 2) 보조 시스템
-<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/1dda1591-da6f-4557-b0ca-f838be7a97c3"  style="width: 50vw; min-width: 300px;" /></p>
-<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/d5e359f7-f8ed-4872-9349-bdbc936a7003"  style="width: 50vw; min-width: 300px;" /></p>
+<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/1dda1591-da6f-4557-b0ca-f838be7a97c3"  style="width: 30vw; min-width: 200px;" /></p>
+<p align="center"><img src="https://github.com/kmj0505/smart-farm-project/assets/123744547/d5e359f7-f8ed-4872-9349-bdbc936a7003"  style="width: 30vw; min-width: 200px;" /></p>
 - 보조 시스템은 주 시스템에서 요청하는 데이터와 제어 요청을 수행하는 시스템으로 구성하였다. 아두이노 간 통신은 RX, TX 핀을 교차하여 시리얼 통신인 I2C을 이용하였다.
 - 온도, 조도, 습도 센서를 사용해 실시간 환경 데이터를 수집할 수 있고, LCD에는 실시간으로 날짜 및 시간 출력을 나타내었다.
 - 릴레이 모듈은 온풍기와 연결되어 있다는 가정을 하여 버튼과 연결하여 누르게 되면 외부 인터럽트가 발생되어 비상 상황을 알리고 전원이 차단되며 부저가 울릴 수 있게 구현하였다.
